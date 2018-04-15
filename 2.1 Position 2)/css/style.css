@@ -1,0 +1,30 @@
+.orange {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background: orange;
+}
+.center {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  background: green;
+  margin: 50px auto;
+}
+.top-middle{
+  top: -25px;
+  right: 45%;
+}
+.left-middle{
+  top: 45%;
+  right: -25px;
+}
+.right-middle {
+  top: 45%;
+  left: -25px;
+  
+}
+.bottom-middle {
+  bottom: -25px;
+  left: 45%;
+}
