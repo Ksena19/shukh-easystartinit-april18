@@ -1,0 +1,35 @@
+div {
+ border: 1px solid #000;
+}
+
+.menu,
+.footer {
+  height: 50px;
+  width: 700px;
+  margin: 0 auto;
+}
+.content {
+  border: none;
+  width: 700px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.sidebar {
+  float: left;
+  width: 200px;
+  height: 400px;
+ }
+
+.main {
+  float: right;
+  width: 490px;
+  height: 400px;
+  
+}
+.footer {
+  clear: both;
+}
+.content, .footer {
+  margin-top: 10px;
+}

@@ -1,0 +1,38 @@
+.wrapper {
+  width: 90%;
+  border: 1px solid #000;
+  margin: 0 auto;
+  padding: 20px;
+}
+.img-left {
+  width: 130px;
+  height: 120px;
+  float: left;
+  border: 1px solid #000;
+}
+.img-right {
+  padding: 50px;
+  float: right;
+  border: 1px solid #000;
+}
+p {
+  width: 70%;
+  border: 1px solid #000;
+  height: 120px;
+  margin-top: 0;
+}
+.p-right {
+  float: right;
+}
+.p-left {
+  float: left;
+}
+
+.img-center {
+  clear: both;
+  margin: 0 auto 40px;
+  height: 100px;
+  width: 100%;
+  border: 1px solid #000;
+
+}

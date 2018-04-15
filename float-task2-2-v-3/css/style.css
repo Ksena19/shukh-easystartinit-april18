@@ -1,0 +1,52 @@
+div {
+ border: 1px solid #000;
+}
+
+.menu,
+.footer {
+  height: 50px;
+  width: 700px;
+  margin: 0 auto;
+}
+.content {
+  border: none;
+  width: 700px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.logo {
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+  float: left;
+}
+.navbar {
+  width: 300px;
+  height: 30px;
+  margin: 10px;
+  float: right;
+}
+.sidebar {
+  float: left;
+  width: 200px;
+  height: 480px;
+ }
+
+.main {
+  float: right;
+  width: 490px;
+  height: 480px;
+  
+}
+.footer {
+  clear: both;
+}
+.content, .footer {
+  margin-top: 10px;
+}
+.main div {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+}
